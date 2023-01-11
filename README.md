@@ -8,4 +8,4 @@ To get some more practice with my ReactJS skills, I created a simple calculator 
 Simply clone the repository and run the command 'npm start' from the application directory.
 
 # Application Screenshot
-![Screenshot]('./public/calculator-screencap.png')
+![Screenshot](./public/calculator-screencap.png)
